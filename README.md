@@ -43,6 +43,10 @@ To help business stakeholders understand sales performance and make data-driven 
 
 <img width="770" height="436" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/10a2181f-6b3e-4c3c-8e1e-23e220558713" />
 
+## Project Outcome
+
+The analysis identified Technology as the highest revenue-generating category and the West region as the strongest performing market. The dashboard provides actionable insights to support business growth and profitability.
+
 ## Author
 
 Sara Nibo
